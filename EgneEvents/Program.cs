@@ -11,7 +11,7 @@ namespace EgneEvents
             h.SkalTisse += (s, e) =>
             {
                 
-                Console.WriteLine("Skal tisse");
+                Console.WriteLine(value: "Skal tisse");
             };
             h.SkalTisse += (s, e) =>
             {
